@@ -51,6 +51,4 @@ To run the Supply Chain Analytics Dashboard locally, follow these steps:
 ## Usage
 To use the Supply Chain Analytics Dashboard, follow the on-screen instructions to navigate through the various features and functionalities. Customize reports, analyze trends, and monitor real-time metrics to optimize your supply chain management processes.
 
-## Contributing
-Contributions to this project are welcome. If you have suggestions for improvements or would like to report a bug, please open an issue or submit a pull request.
 
